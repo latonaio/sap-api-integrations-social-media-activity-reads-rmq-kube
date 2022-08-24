@@ -1,0 +1,34 @@
+{
+	"cursor": "/Users/latona5/bitbucket/sap-api-integrations-social-media-activity-reads/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-social-media-activity-reads/SAP_API_Caller.(*SAPAPICaller).SocialMediaActivityCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E04B6021ED2B7D8FE7211C3E0D2",
+			"SocialMediaMessageAuthor": "Mick Walsh",
+			"CategoryCode": "001",
+			"PrivateSocialMediaMessageIndicator": false,
+			"SocialMediaMessageDomain": "",
+			"ID": "11",
+			"RootSocialMediaActivityUUID": "00163E04-B602-1ED2-B7D8-FE7211C3E0D2",
+			"SocialMediaMessageURI": "http://www.facebook.com/305169206165455/posts/608614069154299",
+			"ParentSocialMediaActivityUUID": "00163E04-B602-1ED2-B7D8-FE7211C3E0D2",
+			"SocialMediaActivityProviderUUID": "00163E03-A070-1EE2-89FC-C5198B6058AD",
+			"SocialMediaUserProfileUUID": "00163E04-B602-1ED2-B7D8-FE72118BA0D2",
+			"SocialFeedbackLikeUnlike": false,
+			"SocialMediaChannelCode": "001",
+			"SocialMediaMessageID": "305169206165455_608614069154299",
+			"SocialMediaMessageCreationDateTime": "2013-02-06T16:50:04+09:00",
+			"UUID": "00163E04-B602-1ED2-B7D8-FE7211C3E0D2",
+			"EntityLastChangedOn": "2013-10-25T21:10:09+09:00",
+			"ETag": "2014-05-24T02:57:04+09:00",
+			"Text": "We recently received an order of the Grundfos Sustainable Energy Pumps. Could you please send some implementation instructions.",
+			"languageCode": "EN",
+			"PriorityCode": "7",
+			"InitiatorCode": "2",
+			"SocialMediaActivityProviderName": "Monarch SmarTouch",
+			"SocialMediaActivityProviderID": "FB"
+		}
+	],
+	"time": "2022-08-09T14:42:21+09:00"
+}
